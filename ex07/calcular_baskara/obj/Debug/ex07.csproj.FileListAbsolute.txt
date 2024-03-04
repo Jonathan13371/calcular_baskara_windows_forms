@@ -1,0 +1,10 @@
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\bin\Debug\ex07.exe.config
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\bin\Debug\ex07.exe
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\bin\Debug\ex07.pdb
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\obj\Debug\ex07.csproj.AssemblyReference.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\obj\Debug\ex07.frmTelaPrincipal.resources
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\obj\Debug\ex07.Properties.Resources.resources
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\obj\Debug\ex07.csproj.GenerateResource.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\obj\Debug\ex07.csproj.CoreCompileInputs.cache
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\obj\Debug\ex07.exe
+C:\Users\PICHAU\Desktop\PROGRAMÇÃO\C# -- Backend\ex07\ex07\ex07\obj\Debug\ex07.pdb
